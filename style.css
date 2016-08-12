@@ -687,7 +687,7 @@ fieldset[disabled] a.btn {
 }
 .jumbotron {
   position: absolute;
-  top: 200px; left: 0; bottom: 0; right: 0;
+  top: 15px; left: 0; bottom: 0; right: 0;
   color:rgba(253, 250, 165, 0.91);
 ;
 }
