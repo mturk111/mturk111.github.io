@@ -14,14 +14,14 @@ These are all we need to write just our thoughts and **Markdown** have these.
 
 Let's see Markdown's syntax.
 1. Headers
+		# Text
 	# Text
-# Text
+		## Text
 	## Text
-## Text
-	## Text
-### Text
+		## Text
+	### Text
 2. Blockquotes
+		> Lorem ipsum
 	> Lorem ipsum
-> Lorem ipsum
 
 We could not see I know I know :SDAZ
