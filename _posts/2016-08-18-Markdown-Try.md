@@ -8,6 +8,7 @@ date: 2016-08-18
 It converts the plain text formatting to HTML.
 
 ##### 1. Easy to read
+
 ##### 2. Easy to write 
 
 These are all we need to write just our thoughts and **Markdown** have these.
@@ -19,13 +20,16 @@ Headers
 
 # Text
 	# Text
+
 ## Text
 	## Text
+
 ### Text
 	### Text
 
 Blockquotes
 ===========
+
 	> Lorem ipsum
 > Lorem ipsum
 
