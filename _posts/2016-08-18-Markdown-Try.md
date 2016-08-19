@@ -200,3 +200,16 @@ http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html
 To be continued...
 
 
+	Textile	Markdown
+headings	h1. text	# text
+h2. text	## text
+h3. text	### text
+links	"link-text (title)":url	[link-text](url "title")
+bullet lists	* item	* item
+** nested item	 * indent nested item
+numbered lists	# item	1. item
+## nested item	 1. indent nested item
+italics	_italics_	_italics_
+bold	*bold*	**bold**
+code	<code> code </code>	`code in backticks`
+blockquotes	bq. text...	> text...
