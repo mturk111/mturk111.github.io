@@ -34,6 +34,7 @@ Let's see Markdown's syntax.
 	> Lorem ipsum
 
 ....................
+
 An h1 header
 ============
 
