@@ -15,6 +15,8 @@ These are all we need to write just our thoughts and **Markdown** have these.
 
 Let's see Markdown's syntax.
 
+---
+
 ## Paragraphs, Headers, Blockquotes
 
 First of all, we will see how we write on our .md file.
@@ -65,6 +67,7 @@ dog's back.
 >
 > ## This is an H2 in a blockquote
 
+---
 
 ## Phrase Emphasis
 
@@ -85,6 +88,8 @@ Some of these words _are emphasized also_.
 
 Use two asterisks for **strong emphasis**.
 Or, if you prefer, __use two underscores instead__.
+
+---
 
 ## Lists
 
@@ -126,6 +131,8 @@ Output.:
 2.  Green
 3.  Blue
 
+---
+
 ## Links
 
 ~~~
@@ -149,6 +156,8 @@ I get 10 times more traffic from [Google][1] than from
 [1]: http://google.com/        "Google"
 [2]: http://search.yahoo.com/  "Yahoo Search"
 [3]: http://search.msn.com/    "MSN Search"
+
+---
 
 ## Code
 
