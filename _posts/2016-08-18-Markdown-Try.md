@@ -170,7 +170,7 @@ For the code blocks you will use ~~~ these sign when you begin and end code.
 ~~~
 
 
-1. https://daringfireball.net/projects/markdown/basics
+1. [https://daringfireball.net/projects/markdown/basics](https://daringfireball.net/projects/markdown/basics)
 
 
 To be continued...
