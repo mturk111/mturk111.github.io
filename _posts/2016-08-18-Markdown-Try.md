@@ -169,7 +169,9 @@ For the code blocks you will use ~~~ these sign when you begin and end code.
   ~~~
 ~~~
 
-#### References
+---
+
+## References
 
 [https://daringfireball.net/projects/markdown/basics](https://daringfireball.net/projects/markdown/basics)
 
