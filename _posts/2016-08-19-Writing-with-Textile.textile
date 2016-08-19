@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World from Github Pages"
+title: "Writing-with-Textile"
 date: 2016-08-12
 ---
 
@@ -34,8 +34,11 @@ Numbered lists is with # .:
 *bold* _itaic_ ** -Delete- +Insert+ "Easy link.: Go About" :/about
 
 p<. Align left
+
 p>. Align right
+
 p=. Center
+
 p<>. justified
 
 bc. # block code lalal
