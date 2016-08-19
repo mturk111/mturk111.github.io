@@ -27,6 +27,7 @@ Let's see Markdown's syntax.
 	# Text
 	## Text
 	##### Text
+
 '''
 
 ### Blockquotes
@@ -35,6 +36,7 @@ Let's see Markdown's syntax.
 
 '''
 	> Lorem ipsum
+
 '''
 
 ....
