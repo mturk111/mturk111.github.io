@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Writing with Markdown"
+title: "[EN] Writing with Markdown"
 date: 2016-08-18
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World from Github Pages"
+title: "[EN] Hello World from Github Pages"
 date: 2016-08-12
 ---
 
