@@ -3,7 +3,7 @@ layout: post
 title: "Writing with Textile"
 date: 2016-08-19
 ---
-
+No more textile supports :/ I saw it after wrote and tried it .
 h1. Heading 1 with Textile
 
 Tetxile seems quite easy compare to Markdown and I'll try to write with it.
