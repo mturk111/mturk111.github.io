@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing-with-Textile"
-date: 2016-08-12
+date: 2016-08-19
 ---
 
 h1. Heading 1 with Textile
@@ -31,7 +31,7 @@ Numbered lists is with # .:
 
 - Textile := Easy text writing style.
 
-*bold* _itaic_ ** -Delete- +Insert+ "Easy link.: Go About" :/about
+*bold* _itaic_ -Delete- +Insert+ "Easy link.: Go About":/about
 
 p<. Align left
 
