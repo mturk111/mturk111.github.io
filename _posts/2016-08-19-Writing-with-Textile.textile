@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Hello World from Github Pages"
+date: 2016-08-12
+---
+
 h1. Heading 1 with Textile
 
 Tetxile seems quite easy compare to Markdown and I'll try to write with it.
