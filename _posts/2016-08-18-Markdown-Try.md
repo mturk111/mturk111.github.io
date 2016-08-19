@@ -23,12 +23,11 @@ Let's see Markdown's syntax.
 
 ##### Text
 
-'''
-	# Text
-	## Text
-	##### Text
-
-'''
+'
+ # Text
+ ## Text
+ ##### Text
+'
 
 ### Blockquotes
 
