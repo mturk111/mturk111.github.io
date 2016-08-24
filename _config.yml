@@ -14,12 +14,12 @@ owner:
   bio:            "I think I am a special one.."
   email:          muhammet-turk@outlook.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/MTurk_
-  facebook:       https://www.facebook.com/mturk111
-  github:         https://github.com/mturk111
+  twitter:        MTurk_
+  facebook:       mturk111
+  github:         mturk111
   stackexchange:  
-  linkedin:       https://www.linkedin.com/in/muhammet-t%C3%BCrk-77644392
-  instagram:      https://www.instagram.com/muhammetturk_/
+  linkedin:       muhammet-t%C3%BCrk-77644392
+  instagram:      muhammetturk_/
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
