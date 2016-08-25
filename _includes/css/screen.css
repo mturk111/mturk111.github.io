@@ -16,6 +16,36 @@ body {
   border-top: 7px solid {{ site.data.theme.highlight_color }};
 }
 
+#topbar {
+  margin-top: -63px;
+  margin-bottom: 63px;
+}
+
+#topbar ul li {
+  float: right;
+  list-style: none;
+  text-align: right;
+  margin-left: 21px;
+  font-size: 90%;
+  letter-spacing: 0.7px;
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
+}
+
+#topbar a {
+  color: #fff;
+  transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+}
+
+#topbar a:hover {
+  text-decoration: none;
+  color: {{ site.style.highlight_color }};
+}
+
+
 h1, h2, h3, h4, h5, h6 {
   color: #181818;
   font-family: "open sans", sans-serif;
