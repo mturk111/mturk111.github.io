@@ -1,0 +1,25 @@
+# Theme customization - please change from the defaults!
+
+# Color for top bar, links, etc
+highlight_color: '#9E0000'
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  github: mturk111
+  twitter: mturk_
+  facebook: mturk111
+  linkedin: muhammet-türk-77644392
+
+# "Hi, I'm _______"
+name: Muhammet Türk
+email: muhammet-turk@outlook.com
+tagline: "Bla bla"
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key: 
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: true
+
+# Toggle link/icon to view atom feed (/atom.xml) in sidebar
+show_atom_feed: true

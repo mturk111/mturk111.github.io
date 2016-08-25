@@ -1,3 +1,5 @@
-name: Muhammet Türk 
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+# General Jekyll Config
+highlighter: pygments
+url: http://example.com
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
