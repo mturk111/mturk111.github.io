@@ -30,7 +30,7 @@
 		border-spacing: 0; }
 
 #center{
-	justify-content: center;
+	text-align: center;
 }	
 #contpnf {
 	height: auto;
