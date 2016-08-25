@@ -43,14 +43,17 @@
 }
 #left{
 	width: 33%;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 #right{
 	width: 33%;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 #middle{
 	margin-left: 5px;
 	margin-right: 5px;
-	border-left:1px solid #000;border-right:1px solid #000;
 	width: 33%;
 	
 }
