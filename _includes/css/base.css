@@ -36,6 +36,11 @@
 	height: auto;
 	width: 100%;
 	font-size: 0;
+	text-align: center;
+}
+#contpnf a img {
+    display : block;
+    margin : auto;
 }
 #left, #middle, #right {
 	display: inline-block;
