@@ -13,7 +13,7 @@ body {
   color: #222222;
   line-height: 24px;
   margin: 0;
-  border-top: 7px solid {{ site.data.theme.highlight_color }};
+  border-top: 26px solid {{ site.data.theme.highlight_color }};
 }
 
 #topbar {
