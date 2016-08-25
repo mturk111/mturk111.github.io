@@ -8,21 +8,13 @@
 */
 
 
-/* Table of Contents
-==================================================
-    #Base 960 Grid
-    #Tablet (Portrait)
-    #Mobile (Portrait)
-    #Mobile (Landscape)
-    #Clearing */
-
 
 
 /* #Base 960 Grid
 ================================================== */
 
     .container                                  { position: relative; width: 960px; margin: 0 auto; padding: 0; }
-    .column, .columns                           { float: left; display: inline; margin-left: 10px; margin-right: 10px; }
+    .column, .columns                           { float: left; display: inline; margin-left: 5px; margin-right: 5px; }
     .row                                        { margin-bottom: 20px; }
 
     /* Nested Column Classes */
@@ -77,9 +69,9 @@
     @media only screen and (min-width: 768px) and (max-width: 959px) {
         .container                                  { width: 768px; }
         .container .column,
-        .container .columns                         { margin-left: 10px; margin-right: 10px;  }
-        .column.alpha, .columns.alpha               { margin-left: 0; margin-right: 10px; }
-        .column.omega, .columns.omega               { margin-right: 0; margin-left: 10px; }
+        .container .columns                         { margin-left: 5px; margin-right: 5px;  }
+        .column.alpha, .columns.alpha               { margin-left: 0; margin-right: 5px; }
+        .column.omega, .columns.omega               { margin-right: 0; margin-left: 5px; }
 
         .container .one.column                      { width: 28px; }
         .container .two.columns                     { width: 76px; }

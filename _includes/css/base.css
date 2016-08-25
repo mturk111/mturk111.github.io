@@ -29,6 +29,35 @@
 		border-collapse: collapse;
 		border-spacing: 0; }
 
+#center{
+	text-align: center;
+}	
+#contpnf {
+	height: auto;
+	width: 100%;
+	font-size: 0;
+}
+#left, #middle, #right {
+	display: inline-block;
+	*display: inline-block;
+	zoom: 1;
+	vertical-align: top;
+	font-size: 15px;
+}
+#left{
+	width: 33%;
+	
+}
+#right{
+	width: 33%;
+}
+#middle{
+	margin-left: 2px;
+	margin-right: 2px;
+	width: 33%;
+	
+}
+
 
 /* #Basic Styles
 ================================================== */
