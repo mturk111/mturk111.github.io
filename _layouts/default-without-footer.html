@@ -20,11 +20,8 @@
 </head>
 <body>
   <div class="container">
-    <div class="four columns sidebar">
-      {% include sidebar.html %}
-    </div>
 
-    <div class="eleven columns content">
+    <div class="eleven columns sidebar">
       <div id="topbar">
         <ul>
           <li><a href="/about">about</a></li>
@@ -33,7 +30,7 @@
 
         </ul>
       </div>
-      {{ content }}
+      {% include sidebar.html %}
     </div>
   </div>
 
