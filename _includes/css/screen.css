@@ -194,6 +194,12 @@ nav h1, nav h2 {
   padding-top: 25px;
   min-height: 400px;
 }
+.content {
+  font: 400 16px/22px "open sans", sans-serif;
+  padding-left: 40px;
+  padding-top: 25px;
+  min-height: 400px;
+}
 
 .footer {
   width: 100%;
