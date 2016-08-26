@@ -2,6 +2,7 @@
 layout: post
 title: "[TR] Bakan Görür"
 date: 2016-08-19
+tag: [Personal,TR]
 ---
 
 Şimdi o kadar ingilizce başlamışken dil ayrımına türkçeye neden girdik diyen olabilir. Tabi kim bakıyor kim görüyor belli değil ya ben yazdıktan sonra biraz bu kısım önemsiz kalıyor.
