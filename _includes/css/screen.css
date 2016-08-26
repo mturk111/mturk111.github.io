@@ -32,12 +32,13 @@ body {
   text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
 }
 #topbarhome ul li {
-  margin-top: -45px;
+  margin-top: -40px;
+  float: right;
   list-style: none;
   text-align: center;
   font-size: 90%;
   letter-spacing: 0.7px;
-  color: #FFFFFF;
+  color: #F7F7F7;
   text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
 }
 
