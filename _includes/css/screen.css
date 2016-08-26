@@ -31,18 +31,7 @@ body {
   color: #fff;
   text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
 }
-#topbarhome ul li {
-  margin-top: -40px;
-  float: right;
-  list-style: none;
-  letter-spacing: 0.7px;
-  text-align: center;
-    margin-left: 21px;
 
-  color: #F7F7F7;
-  font-size: 90%;
-  padding: 2px;
-}
 #topbar a {
   color: #fff;
   transition: all 0.2s ease-in;
