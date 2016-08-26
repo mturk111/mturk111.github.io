@@ -32,6 +32,8 @@ body {
   text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
 }
 #topbarhome ul li {
+  margin-top: -63px;
+  margin-bottom: 63px;
   float: right;
   list-style: none;
   text-align: right;
