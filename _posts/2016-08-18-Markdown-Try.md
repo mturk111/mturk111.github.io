@@ -2,6 +2,7 @@
 layout: post
 title: "[EN] Writing with Markdown"
 date: 2016-08-18
+tag: [Markdown, EN, Tutorial]
 ---
 
 [**Markdown**](https://daringfireball.net/projects/markdown/basics) is a text-to-HTML conversion tool for web writers. 
