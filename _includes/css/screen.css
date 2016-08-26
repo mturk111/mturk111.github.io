@@ -17,11 +17,21 @@ body {
 }
 
 #topbar {
-  margin-top: 0px;
+  margin-top: -63px;
   margin-bottom: 63px;
 }
 
 #topbar ul li {
+  float: right;
+  list-style: none;
+  text-align: right;
+  margin-left: 21px;
+  font-size: 90%;
+  letter-spacing: 0.7px;
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
+}
+#topbarhome ul li {
   float: right;
   list-style: none;
   text-align: right;
