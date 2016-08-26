@@ -33,7 +33,7 @@ body {
 }
 #topbarhome ul li {
   margin-top: -40px;
-  float: center;
+  float: left;
   list-style: none;
   font-size: 90%;
   letter-spacing: 0.7px;
