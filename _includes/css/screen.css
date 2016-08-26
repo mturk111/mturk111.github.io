@@ -24,7 +24,7 @@ body {
 #topbar ul li {
   float: right;
   list-style: none;
-  text-align: right;
+  text-align: center;
   margin-left: 21px;
   font-size: 90%;
   letter-spacing: 0.7px;
