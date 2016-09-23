@@ -177,6 +177,7 @@ nav h1, nav h2 {
 .sidebar {
   padding-top: 25px;
   font-family: "open sans", sans-serif;
+   position: fixed;
 }
 
 .sidebar p {
@@ -190,13 +191,18 @@ nav h1, nav h2 {
 .content {
   font: 400 16px/22px "open sans", sans-serif;
   border-left: 1px solid #DDD;
+   position: fixed;
+    overflow-y: scroll;
   padding-left: 40px;
   padding-top: 25px;
   min-height: 400px;
 }
 .contentme {
   font: 400 16px/22px "open sans", sans-serif;
-  padding-left: 40px;
+   position: fixed;
+    overflow-y: scroll;
+    padding-left: 40px;
+  
   padding-top: 25px;
   min-height: 400px;
 }
