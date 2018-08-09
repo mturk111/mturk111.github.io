@@ -1,5 +1,11 @@
     Stalk me O.o
 <div id="stalker">
+    
+    {% if site.data.theme.social.email %}
+  <a href="mailto:{{ site.data.theme.social.email }}">
+    <i class="fa fa-envelope-square"></i>
+  </a>
+  {% endif %}
   {% if site.data.theme.social.github %}
   <a title="{{ site.data.theme.social.github }} on Github" href="https://github.com/{{ site.data.theme.social.github }}">
     <i class="fa fa-github-square"></i>
